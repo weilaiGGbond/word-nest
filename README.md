@@ -71,3 +71,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+<!-- 2024/10/28 -->
+
+###### check: 建立数据库并完成联表
+
+###### NOTE: 分析websocket相关模块
